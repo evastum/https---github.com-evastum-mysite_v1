@@ -163,7 +163,7 @@ footer{flex: 1 1 100%;
 
 .dv2{
   height : 150px;
-  width: 520px;
+  width: 540px;
   margin: auto;
 }
 
@@ -210,4 +210,19 @@ footer{flex: 1 1 100%;
 .sub4{
   top: 160px;
   left: 805px;
+}
+
+.sub5{
+  top: 600px;
+  left: 90px;
+}
+
+.sub5-1{
+  top: 750px;
+  left: 50px;
+}
+
+.sub6{
+  top: 600px;
+  left: 330px;
 }
